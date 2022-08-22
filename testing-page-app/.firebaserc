@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "testprojectionic01"
+  },
+  "targets": {
+    "testprojectionic01": {
+      "hosting": {
+        "app": [
+          "testprojectionic01"
+        ]
+      }
+    }
+  }
+}
